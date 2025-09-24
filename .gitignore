@@ -10,3 +10,6 @@ logs/ :Ignores the logs folder and everything inside it.
 *.bak :Ignores all files with the .bak extension.
 *.swp :Ignores all files with the .swp extension (commonly used by Vim).
 .DS_Store :Ignores the .DS_Store file created by macOS.
+
+Email
+Cloudinary_Name
