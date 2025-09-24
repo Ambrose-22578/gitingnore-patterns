@@ -1,0 +1,12 @@
+/temp/  :Ignores the temp folder and everything inside it.
+.*  :gnores all hidden files (e.g., .env, .DS_Store).
+*.tmp :Ignores all files with the .tmp extension.
+node_modules/ :Ignores the node_modules folder and everything inside it.
+dist/ :Ignores the dist folder and everything inside it.
+build/ :Ignores the build folder and everything inside it.
+logs/ :Ignores the logs folder and everything inside it.
+
+*.log :Ignores all files with the .log extension.
+*.bak :Ignores all files with the .bak extension.
+*.swp :Ignores all files with the .swp extension (commonly used by Vim).
+.DS_Store :Ignores the .DS_Store file created by macOS.
