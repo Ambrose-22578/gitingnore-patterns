@@ -11,12 +11,15 @@ logs/ :Ignores the logs folder and everything inside it.
 *.swp :Ignores all files with the .swp extension (commonly used by Vim).
 .DS_Store :Ignores the .DS_Store file created by macOS.
 
+
 **/logs
 
+Examples 
 logs/debug.log
 logs/monday/foo.bar
 build/logs/debug.log
 
+Explantion
 You can prepend a pattern with a double asterisk to match directories anywhere in the repository.
 
 **/logs/debug.log
